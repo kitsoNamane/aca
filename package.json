@@ -1,0 +1,27 @@
+{
+  "name": "aca",
+  "version": "1.0.0",
+  "description": "interview questions for aca interview",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitsoNamane/aca.git"
+  },
+  "author": "Kitso Namanes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kitsoNamane/aca/issues"
+  },
+  "homepage": "https://github.com/kitsoNamane/aca#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongodb": "^4.8.0",
+    "nodemon": "^2.0.19"
+  }
+}
